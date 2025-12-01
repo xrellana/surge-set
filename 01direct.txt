@@ -9,3 +9,12 @@ DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,metowolf.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,push.apple.com
