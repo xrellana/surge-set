@@ -1,0 +1,7 @@
+DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gmgn.ai
+DOMAIN-SUFFIX,jdbstatic.com
+DOMAIN-SUFFIX,javdb.com
+DOMAIN,plex.meowoo.net
+DOMAIN-SUFFIX,claudeusercontent.com
