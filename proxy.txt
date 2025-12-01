@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,doppiocdn.net
+DOMAIN,oui.meowoo.net
+DOMAIN-SUFFIX,impossibleimages.ai
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,zero2.me
+DOMAIN-SUFFIX,overwolf.com
+DOMAIN-SUFFIX,blog.google
+DOMAIN-SUFFIX,shazam.com
