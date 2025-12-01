@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN,green.meowoo.net
+DOMAIN,fancy.meowoo.net
+DOMAIN,sandbox.itunes.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,metowolf.com
+DOMAIN,downloaddispatch.itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com
