@@ -40,3 +40,5 @@ DOMAIN-SUFFIX,emby.misakaf.org
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,netflix.com
