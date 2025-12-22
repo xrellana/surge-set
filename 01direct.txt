@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,minimax.io
