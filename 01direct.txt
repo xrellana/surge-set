@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,cdn-apple.com
