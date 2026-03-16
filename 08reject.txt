@@ -21,3 +21,5 @@ DOMAIN-SUFFIX,pcdn.youku.com
 DOMAIN-SUFFIX,p2p.douyucdn.cn
 DOMAIN-SUFFIX,p2p.qq.com
 DOMAIN-SUFFIX,pcdn.yximgs.com
+DOMAIN-SUFFIX,buychennai.com
+DOMAIN-SUFFIX,pages-gist.com
