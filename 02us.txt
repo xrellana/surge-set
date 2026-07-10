@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,chronosphere.io
+DOMAIN-SUFFIX,oaistatsig.com
