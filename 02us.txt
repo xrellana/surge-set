@@ -10,3 +10,8 @@ DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,chronosphere.io
 DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workoscdn.com
+DOMAIN-SUFFIX,openaimerge.com
+DOMAIN-SUFFIX,workos.imgix.net
+DOMAIN-SUFFIX,challenges.cloudflare.com
